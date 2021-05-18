@@ -1,0 +1,13 @@
+body {
+    background-color: blue;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+.text {
+    width: 80%;
+    margin: auto;
+}
